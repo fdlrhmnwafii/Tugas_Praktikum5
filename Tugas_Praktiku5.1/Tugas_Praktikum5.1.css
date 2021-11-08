@@ -1,0 +1,49 @@
+.box{
+    width: 33cm;
+    height: 15cm;
+    margin: auto;
+}
+
+.kuning{
+    border: 1px solid black;
+    width: 7cm;
+    height: 13cm;
+    background-color: yellow;
+    float: left;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+}
+
+.orange {
+    border: 1px solid black;
+    width: 7cm;
+    height: 13cm;
+    background-color: orangered;
+    float: left;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+}
+
+.hijau{
+    border: 1px solid black;
+    width: 7cm;
+    height: 13cm;
+    background-color: lightgreen;
+    float: left;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+}
+
+.biru{
+    border: 1px solid black;
+    width: 7cm;
+    height: 13cm;
+    background-color: cyan;
+    float: left;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+}

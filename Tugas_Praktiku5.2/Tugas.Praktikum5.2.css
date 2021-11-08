@@ -1,0 +1,63 @@
+.atas{
+    width: 33cm;
+    height: 5cm;
+    margin: auto;
+}
+
+.tengah{
+    width: 33cm;
+    height: 8cm;
+    margin: auto;
+}
+
+.bawah{
+    width: 33cm;
+    height: 7cm;
+    margin: auto;
+}
+
+.hijau{
+    margin: 1cm;
+    border: 1px solid black;
+    width: 31cm;
+    height: 3cm;
+    background-color: green;
+}
+
+.kuning1{
+    margin-left: 1cm;
+    float: left;
+    border: 1px solid black;
+    width: 5cm;
+    height: 6cm;
+    background-color: yellow;
+}
+
+.orange{
+    margin-left: 7cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    border: 1px solid black;
+    width: 25cm;
+    height: 6cm;
+    background-color: orangered;
+}
+
+.kuning2{
+    margin-left: 1cm;
+    border: 1px solid black;
+    width: 5cm;
+    height: 5cm;
+    background-color: yellow;
+    float: left;
+}
+
+.biru{
+    margin-left: 7cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    border: 1px solid black;
+    width: 25cm;
+    height: 5cm;
+    background-color: cyan;
+}
